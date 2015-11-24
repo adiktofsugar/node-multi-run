@@ -1,0 +1,16 @@
+{
+  "name": "multi-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "multi-run": "./index.js"
+  },
+  "author": "Sean McCollum <anincrediblyshortname@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
